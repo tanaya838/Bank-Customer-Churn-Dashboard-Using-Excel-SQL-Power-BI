@@ -6,6 +6,7 @@ Tools & Technologies:
 This project utilizes a combination of (Excel + SQL + Power BI) data handling, querying, and visualization tools to build a complete customer churn analysis solution.
 
 1. Microsoft Excel:
+   
 •	Initial data cleaning and formatting
 
 •	Handling missing values
@@ -14,19 +15,32 @@ This project utilizes a combination of (Excel + SQL + Power BI) data handling, q
 
 •	Basic exploratory data analysis
 
-3. SQL (Structured Query Language):
+2. SQL (Structured Query Language):
+   
 •	Data extraction and querying
+
 •	Aggregation and grouping of churn-related measures
+
 •	Segmentation by demographic and financial attributes
+
 •	Calculating churn rates across multiple dimensions
-4. Microsoft Power BI:
+
+3. Microsoft Power BI:
+   
 •	Data Modelling
+
 •	Relationship building between tables
+
 •	Created calculated columns and DAX measures
+
 •	Creating visual dashboards & reports
+
 •	Visualization charts, KPIs, filters, and navigations
+
 Data Source:
+
 The dataset used for this dashboard is the Bank Customer Churn dataset, sourced from Maven Analytics.
+
 It contains over 10,000 Customers, 2,037 Churned customers, 650.53 Average credit score, 20.37 Churn rate percentage, 76.46K Average balance.
 
 Key Questions:
@@ -62,3 +76,14 @@ The goal is to provide a data-driven foundation for identifying at-risk customer
 
 [Dashboard Preview]
 Dashboard: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Bank_customer_churn%20Dashboard.gif
+
+Page 1:
+
+Page 2:
+
+Page 3:
+
+Page 4:
+
+Page 5:
+
