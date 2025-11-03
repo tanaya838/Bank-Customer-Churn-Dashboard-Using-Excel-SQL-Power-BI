@@ -108,7 +108,7 @@ Page 1: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-S
 
 Page 2: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Page%202.gif
 
-Page 3:    
+Page 3: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Page%203.gif    
 
 Page 4: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Page%204.gif
 
