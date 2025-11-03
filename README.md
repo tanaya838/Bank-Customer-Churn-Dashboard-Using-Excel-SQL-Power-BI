@@ -7,15 +7,19 @@ This project utilizes a combination of (Excel + SQL + Power BI) data handling, q
 
 1. Microsoft Excel:
 •	Initial data cleaning and formatting
+
 •	Handling missing values
+
 •	Creating calculated fields
+
 •	Basic exploratory data analysis
-2. SQL (Structured Query Language):
+
+3. SQL (Structured Query Language):
 •	Data extraction and querying
 •	Aggregation and grouping of churn-related measures
 •	Segmentation by demographic and financial attributes
 •	Calculating churn rates across multiple dimensions
-3. Microsoft Power BI:
+4. Microsoft Power BI:
 •	Data Modelling
 •	Relationship building between tables
 •	Created calculated columns and DAX measures
@@ -56,4 +60,5 @@ Churn Rate Percentage By Credit Card (Pie Chart): Credit-card users are less lik
 This dashboard is designed to analyse and visualize customer churn trends to help businesses understand why customers leave and how retention can be improved. By segmenting customers based on factors such as credit card ownership, geography, tenure, account balance, and active membership, the dashboard highlights key patterns that differentiate churned and non-churned customers.
 The goal is to provide a data-driven foundation for identifying at-risk customer groups, evaluating behavioural indicators, and supporting decisions that enhance customer satisfaction and reduce churn. These insights help stakeholders prioritize strategic actions, optimize resource allocation, and build impactful retention initiatives.
 
-
+[Dashboard Preview]
+Dashboard: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Bank_customer_churn%20Dashboard.gif
