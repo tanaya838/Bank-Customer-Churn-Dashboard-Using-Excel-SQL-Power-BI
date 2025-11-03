@@ -104,13 +104,13 @@ The goal is to provide a data-driven foundation for identifying at-risk customer
 
 Dashboard: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Bank_customer_churn%20Dashboard.gif
 
-Page 1:
+Page 1: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Page%201.gif
 
-Page 2:
+Page 2: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Page%202.gif
 
-Page 3:
+Page 3:    
 
-Page 4:
+Page 4: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Page%204.gif
 
-Page 5:
+Page 5: https://github.com/tanaya838/Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI/blob/main/Page%205.gif
 
