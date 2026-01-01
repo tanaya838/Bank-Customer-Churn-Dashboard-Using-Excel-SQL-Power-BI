@@ -38,13 +38,13 @@ This project utilizes a combination of (Excel + SQL + Power BI) data handling, q
 
 •	Visualization charts, KPIs, filters, and navigations
 
-Data Source:
+4. Data Source:
 
 The dataset used for this dashboard is the Bank Customer Churn dataset, sourced from Maven Analytics.
 
 It contains over 10,000 Customers, 2,037 Churned customers, 650.53 Average credit score, 20.37 Churn rate percentage, 76.46K Average balance.
 
-Key Questions:
+5. Key Questions:
 
 1.What is the distribution of customers by Geography (France, Spain, Germany) and how does churn vary across them?
 
@@ -76,7 +76,7 @@ Key Questions:
 
 13.If we assume churned customers = lost revenue, what is the total estimated salary lost due to churn?
 
-Walkthrough of Key Visuals:
+6. Walkthrough of Key Visuals:
 
 Slicers (Top Right & Top Left): Geography, Number of products, Gender, Age
 
