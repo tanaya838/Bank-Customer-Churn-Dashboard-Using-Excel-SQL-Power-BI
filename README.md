@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Dashboard-Using-Excel-SQL-Power-BI
+# Bank-Customer-Churn-Analysis-Using-Excel-SQL-Power-BI
 
 The main objective of the Bank Customer Churn Dashboard is to analyse customer churn and identify the key factors influencing customers to leave the bank. By visualizing customer behaviour across demographics, financial indicators, tenure, and product usage. The dashboard helps the bank monitor churn rates, discover churn drivers, and develop targeted actions to reduce attrition and improve customer satisfaction.
 
